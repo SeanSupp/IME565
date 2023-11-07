@@ -82,5 +82,7 @@ with tab4:
     df = pd.read_csv('class_report.csv', index_col=0)
     st.dataframe(df)
 
-
+password_guess = st.text_input("What is the Password?")
+if password_guess != st.secrets["password"]:
+  st.stop()
 
