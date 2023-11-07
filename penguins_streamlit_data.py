@@ -16,6 +16,9 @@ st.image('penguins.png', width = 400)
 st.write("This app uses 6 inputs to predict the species of penguin using " 
          "a model built on the Palmer's Penguin's dataset. Use the following form or upload your dataset" 
          " to get started!") 
+password_guess = st.text_input("What is the Password?")
+if password_guess != st.secrets["password"]:
+  st.stop()
 
 # Reading the pickle files that we created before 
 dt_pickle = open('decision_tree_penguin.pickle', 'rb') 
@@ -136,3 +139,6 @@ with tab3:
 with tab4:
     df = pd.read_csv('class_report.csv', index_col=0)
     st.dataframe(df)
+
+
+    
