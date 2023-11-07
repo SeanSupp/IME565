@@ -1,0 +1,26 @@
+season,mnth,holiday,weekday,workingday,weathersit,temp,atemp,hum,windspeed
+Winter,Jan,No,Sat,No,Mist and Cloudy,0.344167,0.363625,0.805833,0.160446
+Winter,Jan,No,Sun,No,Mist and Cloudy,0.363478,0.353739,0.696087,0.248539
+Winter,Jan,No,Mon,Yes,Clear or Few Clouds,0.196364,0.189405,0.437273,0.248309
+Winter,Jan,No,Tue,Yes,Clear or Few Clouds,0.2,0.212122,0.590435,0.160296
+Winter,Jan,No,Wed,Yes,Clear or Few Clouds,0.226957,0.22927,0.436957,0.1869
+Winter,Jan,No,Thu,Yes,Clear or Few Clouds,0.204348,0.233209,0.518261,0.0895652
+Winter,Jan,No,Fri,Yes,Mist and Cloudy,0.196522,0.208839,0.498696,0.168726
+Winter,Jan,No,Sat,No,Mist and Cloudy,0.165,0.162254,0.535833,0.266804
+Winter,Jan,No,Sun,No,Clear or Few Clouds,0.138333,0.116175,0.434167,0.36195
+Winter,Jan,No,Mon,Yes,Clear or Few Clouds,0.150833,0.150888,0.482917,0.223267
+Winter,Jan,No,Tue,Yes,Mist and Cloudy,0.169091,0.191464,0.686364,0.122132
+Winter,Jan,No,Wed,Yes,Clear or Few Clouds,0.172727,0.160473,0.599545,0.304627
+Winter,Jan,No,Thu,Yes,Clear or Few Clouds,0.165,0.150883,0.470417,0.301
+Winter,Jan,No,Fri,Yes,Clear or Few Clouds,0.16087,0.188413,0.537826,0.126548
+Winter,Jan,No,Sat,No,Mist and Cloudy,0.233333,0.248112,0.49875,0.157963
+Winter,Jan,No,Sun,No,Clear or Few Clouds,0.231667,0.234217,0.48375,0.188433
+Winter,Jan,Yes,Mon,No,Mist and Cloudy,0.175833,0.176771,0.5375,0.194017
+Winter,Jan,No,Tue,Yes,Mist and Cloudy,0.216667,0.232333,0.861667,0.146775
+Winter,Jan,No,Wed,Yes,Mist and Cloudy,0.292174,0.298422,0.741739,0.208317
+Winter,Jan,No,Thu,Yes,Mist and Cloudy,0.261667,0.25505,0.538333,0.195904
+Winter,Jan,No,Fri,Yes,Clear or Few Clouds,0.1775,0.157833,0.457083,0.353242
+Winter,Jan,No,Sat,No,Clear or Few Clouds,0.0591304,0.0790696,0.4,0.17197
+Winter,Jan,No,Sun,No,Clear or Few Clouds,0.0965217,0.0988391,0.436522,0.2466
+Winter,Jan,No,Mon,Yes,Clear or Few Clouds,0.0973913,0.11793,0.491739,0.15833
+Winter,Jan,No,Tue,Yes,Mist and Cloudy,0.223478,0.234526,0.616957,0.129796
